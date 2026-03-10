@@ -10,8 +10,12 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| **Nome do Grupo** | *(preencher)* |
-| **Integrantes** | *(listar todos)* |
+| **Nome do Grupo** | Grupo 5 |
+| **Integrantes** | Carlos Daniel Bastos Neder, 
+Hector Paulo Gomes Cazella, João Vitor Osório de Faria, 
+Patrick Gabriel Francelino Soares, Paulo Eduardo Freire Couto e Silva, 
+Raul Breves de Almeida|
+
 | **E-mail de contato** | *(preencher)* |
 | **Comunidade parceira** | *(preencher)* |
 
