@@ -54,25 +54,33 @@ Deepfake de forma visual e acessível para o público-alvo.
 
 ---
 
-### Semana 3 — ___/___/___ a ___/___/___
+### Semana 3 — 28/3/2026 a 4/4/2026
 
 **O que foi feito:**
+Reunião do grupo para retomada do projeto. Foram revisadas as referências levantadas e
+iniciada a estruturação dos slides, com definição dos tópicos principais: o que é
+Inteligência Artificial, exemplos do cotidiano, o que é Deepfake e como identificar um.
+O grupo também discutiu o formato da dinâmica interativa a ser aplicada na oficina.
 
 **Quem participou:**
+- Raul Breves de Almeida
+- Patrick Gabriel Francelino Soares
+- Carlos Daniel Bastos Neder
+- João Vitor Osório de Faria
+- Paulo Eduardo Freire Couto e Silva
+- Hector Paulo Gomes Cazella
 
 **Próximos passos:**
-
----
-
-*(Copie o bloco acima para cada semana de atividade ao longo do semestre.)*
+Desenvolvimento visual dos slides, criação da dinâmica "Verdade ou Mentira?" e
+definição da data e local da oficina.
 
 ---
 
 ## Registro da Execução da Oficina
 
-**Data:** ___/___/___
+**Data:**
 **Local:**
-**Horário:** ___ às ___
+**Horário:**
 **Participantes do grupo presentes:**
 **Nº de participantes da comunidade:**
 
