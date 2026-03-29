@@ -30,6 +30,7 @@ João Vitor Osório de faria
 Paulo Eduardo Freire Couto e Silva
 
 Hector Paulo Gomes Cazella
+
 **Próximos passos:**
 Criação de recursos iterativos e discussão sobre a elaboração da apresentação do grupo e forma.
 ---
