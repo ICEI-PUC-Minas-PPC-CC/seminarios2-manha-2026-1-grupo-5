@@ -16,8 +16,12 @@
 **O que foi feito:**
 Criação do grupo no GitHub, discussão sobre o tema escolhido, definição dos recursos a serem utilizados e elaboração inicial do projeto, abordando de forma geral sua ideia principal.
 **Quem participou:**
-
-
+Raul Breves de Almeida
+Patrick Gabriel Francelino Soares
+Carlos Daniel Bastos Neder
+João Vitor Osório de faria
+Paulo Eduardo Freire Couto e Silva
+Hector Paulo Gomes Cazella
 **Próximos passos:**
 Criação de recursos iterativos e discussão sobre a elaboração da apresentação do grupo e forma.
 ---
