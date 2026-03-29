@@ -11,20 +11,18 @@
 
 ## Registro de Atividades
 
-### Semana __ — ___/___/___ a ___/___/___
+### Semana 1° — 10/3/2026 a 17/3/2026
 
 **O que foi feito:**
-*(Descrever as atividades realizadas nesta semana.)*
-
+Criação do grupo no GitHub, discussão sobre o tema escolhido, definição dos recursos a serem utilizados e elaboração inicial do projeto, abordando de forma geral sua ideia principal.
 **Quem participou:**
-*(Listar integrantes envolvidos.)*
+
 
 **Próximos passos:**
-*(O que precisa ser feito na próxima semana?)*
-
+Criação de recursos iterativos e discussão sobre a elaboração da apresentação do grupo e forma.
 ---
 
-### Semana __ — ___/___/___ a ___/___/___
+### Semana 2° — 17/3/2026 a 28/3/2026
 
 **O que foi feito:**
 
