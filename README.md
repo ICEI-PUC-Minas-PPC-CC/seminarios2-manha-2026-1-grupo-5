@@ -18,14 +18,14 @@
 |                  |Paulo Eduardo Freire Couto e Silva|
 |                  |Raul Breves de Almeida|
 
-| **E-mail de contato** | *(preencher)* |
-| **Comunidade parceira** | *(preencher)* |
+| **E-mail de contato** | grupo-05-seminarios@googlegroups.com |
+| **Comunidade parceira** | Centro Municipal de Atendimento Educacional Especializado Dr. Tarso de Coimbra |
 
 ---
 
 ## 🎯 Tema da Oficina
 
-(Descreva brevemente o tema escolhido para a oficina e o público-alvo.)
+O projeto tem como objetivo desenvolver uma apresentação interativa voltada para pessoas surdas ou com deficiência auditiva, abordando de forma visual e acessível o tema dos Deepfakes. O material busca capacitar o público a identificar conteúdos manipulados digitalmente, como vídeos e imagens gerados por Inteligência Artificial, por meio de exemplos práticos e linguagem simples. A proposta prioriza a acessibilidade como ponto central, garantindo que a informação chegue de forma clara e inclusiva a todos os participantes.
 
 ---
 
