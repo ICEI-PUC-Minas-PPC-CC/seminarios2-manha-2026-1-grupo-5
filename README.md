@@ -17,7 +17,6 @@
 |                  |Patrick Gabriel Francelino Soares| 
 |                  |Paulo Eduardo Freire Couto e Silva|
 |                  |Raul Breves de Almeida|
-
 | **E-mail de contato** | grupo-05-seminarios@googlegroups.com |
 | **Comunidade parceira** | Centro Municipal de Atendimento Educacional Especializado Dr. Tarso de Coimbra |
 
