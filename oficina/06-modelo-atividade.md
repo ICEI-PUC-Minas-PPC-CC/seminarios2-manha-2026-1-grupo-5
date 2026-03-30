@@ -4,40 +4,40 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da atividade | |
-| Tipo | *(Língua Portuguesa / Matemática / Informática Básica / Simulação de compra e venda / Outro)* |
-| Duração estimada | |
-| Ferramenta principal | *(Mentimeter / Kahoot! / Scratch / Calculadora / Office / Outro)* |
+| Nome da atividade |Palestra sobre eduação digital e deep fake |
+| Tipo |Educativo,Seguraça digital,discução sobre o ambiente digital|
+| Duração estimada |1 hora|
+| Ferramenta principal |Mentimeter|
 
 ## Objetivo
 
-(O que o participante deve ser capaz de fazer ao final desta atividade?)
+Os participantes serão capazes de desenvolver senso crítico para analisar informações e questionar a veracidade dos conteúdos apresentados em redes sociais, sites e outros meios de comunicação digitais, evitando acreditar em tudo o que lhes é apresentado. Além disso, deverão aprender a agir e se comportar de forma responsável no ambiente virtual.
 
 ## Nível de Complexidade
 
 > **Lembrete:** As atividades devem ter baixa complexidade, considerando as dificuldades de aprendizado do público-alvo.
 
-- [ ] Baixa complexidade (adequado)
+- [x] Baixa complexidade (adequado)
 - [ ] Complexidade verificada com o professor/comunidade
 
 ## Descrição Passo a Passo
 
-1. *(Passo 1 — O que o facilitador faz/diz)*
-2. *(Passo 2 — O que os participantes fazem)*
-3. *(Passo 3 — ...)*
+1. Os integrantes responsáveis pela condução da atividade deverão apresentar uma palestra sobre o tema proposto.
+2. Após a apresentação, os participantes realizarão a atividade na plataforma Mentimeter.
 
 ## Materiais Necessários
 
-- *(Listar todos os materiais, links, arquivos, etc.)*
+- Os alunos devem ter acesso a celulares ou computadores.
+- O dispositivo em questão deve ter um navegador instalado.
 
 ## Exemplo Concreto
 
-(Forneça um exemplo real da atividade. Ex.: "Se eu tenho R$ 10,00 e quero comprar um produto de R$ 30,00, quanto falta?" — usando a calculadora do sistema operacional.)
+Os participantes serão expostos a perguntas que visam estimular o desenvolvimento do senso crítico, tais como: “Esta informação, proveniente de um meio de comunicação digital, possui credibilidade?”, “O que devo fazer ao me deparar com informações falsas?” e “Devo acreditar neste vídeo ou não?”. Após essa etapa, os participantes deverão selecionar a alternativa que melhor se adequa à situação apresentada.
 
 ## Critérios de Sucesso
 
-(Como saber se a atividade funcionou? Ex.: participantes conseguiram completar o exercício, acertaram X% das perguntas no Kahoot!, etc.)
+O critério de sucesso será definido com base na pontuação obtida pelos participantes nas questões apresentadas na plataforma Mentimeter, sendo considerada satisfatória uma média mínima de 60%.
 
 ## Adaptações de Acessibilidade
 
-(Descreva adaptações necessárias: apoio visual, uso de Libras, simplificação de linguagem, etc.)
+É necessário um intérprete para realização desta atividade.
