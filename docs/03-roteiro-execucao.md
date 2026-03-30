@@ -1,7 +1,7 @@
 # 03 — Roteiro de Execução da Oficina
 
 > **Data da oficina:** *(preencher)*  
-> **Local:** *(preencher)*  
+> **Local:** Rua Mário Xando de Oliveira, 2 - São Geraldo, Poços de Caldas - MG, CEP 37701-335  
 > **Horário:** *(início)* às *(término)*
 
 ---
@@ -24,26 +24,23 @@
 
 | Problema potencial | Solução alternativa |
 | ------------------- | ------------------- |
-| Internet indisponível | |
-| Projetor não funciona | |
-| Menos participantes que o esperado | |
-| Mais participantes que o esperado | |
-| Participante com dificuldade na atividade | |
+| Internet indisponível |deve-se baixar os slides em um pendrive e realizar a atividade iterativa verbalmente|
+| Projetor não funciona |o link dos slides podem aos computadores ou celulares destinados aos participantes|
+| Mais participantes que o esperado |deve-se entrar em contato com o responsável pelo local e solicitar a troca de salas destinada a apresentação |
+| Participante com dificuldade na atividade |os destinados ao apoio técnico pode ser acionado para resolver essas questões|
 
 ---
 
 ## Checklist Pré-Oficina (dia anterior)
-
-- [ ] Materiais digitais testados e funcionando
-- [ ] Links do Mentimeter/Kahoot! criados e testados
+- [ ] Links do Mentimeter criados e testados
 - [ ] Apresentação/slides prontos
 - [ ] Confirmação do agendamento com o professor ou comunidade
-- [ ] Confirmação da disponibilidade do intérprete de Libras (se aplicável)
-- [ ] Equipamentos verificados (notebook, cabos, adaptadores)
+- [ ] Confirmação da disponibilidade do intérprete de Libras 
+- [ ] Verificar a disponibilidade de dispositivos eletrônicos para a realização da atividade.
 
 ## Checklist Pós-Oficina (no dia)
 
-- [ ] Fotos registradas (mínimo 10 fotos variadas)
-- [ ] Feedback dos participantes (mesmo por observação)
+- [ ] Fotos registradas 
+- [ ] Feedback dos participantes
 - [ ] Material utilizado salvo/documentado
 - [ ] Agradecimento formal ao colégio/comunidade
