@@ -22,8 +22,8 @@ https://www.menti.com/aln2nxqanmtr
 
 | Print | Descrição |
 | ------- | ---------- |
-| `evidencias/prints/print01.png` | *(descrever)* |
-| `evidencias/prints/print02.png` | *(descrever)* |
+| `evidencias/prints/print01.png` | Print do Slide Interativo desenvolvido no Mentimeter |
+| `evidencias/prints/print02.png` | Print do Slide Interativo desenvolvido no Mentimeter |
 
 ## Links Úteis para o Dia da Oficina
 
