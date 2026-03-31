@@ -8,13 +8,13 @@
 
 | # | Material | Tipo | Link / Localização |
 | --- | --------- | ------ | ------------------- |
-| 1 | | *(Kahoot! / Mentimeter / Planilha / Documento / Scratch / Outro)* | |
+| 1 | | Mentimeter | Slide interativo | https://www.menti.com/aln2nxqanmtr |
 | 2 | | | |
 | 3 | | | |
 
 ## Apresentações / Slides
 
-(Se o grupo criou slides para a oficina, liste-os aqui com links ou coloque os arquivos nesta pasta.)
+https://www.menti.com/aln2nxqanmtr
 
 ## Prints de Tela
 
@@ -30,7 +30,7 @@
 | Recurso | URL |
 | --------- | ----- |
 | Kahoot! da oficina | |
-| Mentimeter da oficina | |
+| Mentimeter da oficina | https://www.menti.com/aln2nxqanmtr |
 | Documento compartilhado | |
 | Projeto Scratch | |
 | Outro | |
