@@ -10,12 +10,12 @@
 
 | Integrante | Papel/Responsabilidade no dia |
 | ----------- | ------------------------------ |
-| Paulo Eduardo Freire Couto e Silva | Apresentador principal — conduz os slides no Mentimeter e explica os conceitos ao público |
-| Patrick Gabriel Francelino Soares | Co-apresentador — auxilia na condução e interage com os participantes durante a dinâmica |
-| Carlos Daniel Bastos Neder | Apoio técnico — responsável pelo projetor, computadores e pelo acesso ao Mentimeter (garante que o código de participação esteja visível) |
-| Hector Paulo Gomes Cazella | Apoio aos participantes — circula pela sala auxiliando quem tiver dificuldade com o dispositivo ou com a atividade |
-| João Vitor Osório de Faria | Registro fotográfico — documenta a execução da oficina para o relatório APC |
-| Raul Breves de Almeida | Apoio aos participantes e liaison com o intérprete de Libras — garante a comunicação fluida entre o grupo e o intérprete da Tarso de Coimbra |
+| Paulo Eduardo Freire Couto e Silva | A definir. |
+| Patrick Gabriel Francelino Soares | A definir.  |
+| Carlos Daniel Bastos Neder | A definir.  |
+| Hector Paulo Gomes Cazella |A definir.  |
+| João Vitor Osório de Faria |A definir.  |
+| Raul Breves de Almeida | A definir.  |
 
 ---
 
