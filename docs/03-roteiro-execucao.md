@@ -1,6 +1,6 @@
 # 03 — Roteiro de Execução da Oficina
 
-> **Data da oficina:** *(preencher)*  
+> **Data da oficina:** *(a definir)*  
 > **Local:** Rua Mário Xando de Oliveira, 2 - São Geraldo, Poços de Caldas - MG, CEP 37701-335  
 > **Horário:** *(início)* às *(término)*
 
@@ -10,37 +10,41 @@
 
 | Integrante | Papel/Responsabilidade no dia |
 | ----------- | ------------------------------ |
-| | Apresentador inicial |
-| | Apoio técnico (projetor, computadores) |
-| | Apoio aos participantes durante atividades |
-| | Registro fotográfico |
-| | *(outros conforme necessário)* |
+| Paulo Eduardo Freire Couto e Silva | Apresentador principal — conduz os slides no Mentimeter e explica os conceitos ao público |
+| Patrick Gabriel Francelino Soares | Co-apresentador — auxilia na condução e interage com os participantes durante a dinâmica |
+| Carlos Daniel Bastos Neder | Apoio técnico — responsável pelo projetor, computadores e pelo acesso ao Mentimeter (garante que o código de participação esteja visível) |
+| Hector Paulo Gomes Cazella | Apoio aos participantes — circula pela sala auxiliando quem tiver dificuldade com o dispositivo ou com a atividade |
+| João Vitor Osório de Faria | Registro fotográfico — documenta a execução da oficina para o relatório APC |
+| Raul Breves de Almeida | Apoio aos participantes e liaison com o intérprete de Libras — garante a comunicação fluida entre o grupo e o intérprete da Tarso de Coimbra |
 
 ---
 
 ## Plano B / Contingências
 
-> Pode ser usado "não se aplica", quando o item de contigência não for necessário.
+> Pode ser usado "não se aplica", quando o item de contingência não for necessário.
 
 | Problema potencial | Solução alternativa |
 | ------------------- | ------------------- |
-| Internet indisponível |deve-se baixar os slides em um pendrive e realizar a atividade iterativa verbalmente|
-| Projetor não funciona |o link dos slides podem aos computadores ou celulares destinados aos participantes|
-| Mais participantes que o esperado |deve-se entrar em contato com o responsável pelo local e solicitar a troca de salas destinada a apresentação |
-| Participante com dificuldade na atividade |os destinados ao apoio técnico pode ser acionado para resolver essas questões|
+| Internet indisponível | Deve-se baixar os slides em um pendrive e realizar a atividade interativa verbalmente |
+| Projetor não funciona | O link dos slides pode ser enviado aos computadores ou celulares destinados aos participantes |
+| Mais participantes que o esperado | Deve-se entrar em contato com o responsável pelo local e solicitar a troca de sala destinada à apresentação |
+| Participante com dificuldade na atividade | Os integrantes destinados ao apoio (Hector e Raul) podem ser acionados para resolver essas questões |
+| Intérprete de Libras ausente | Entrar em contato imediatamente com a coordenação da Tarso de Coimbra para buscar substituto; se não for possível, reagendar a oficina |
 
 ---
 
 ## Checklist Pré-Oficina (dia anterior)
-- [ ] Links do Mentimeter criados e testados
-- [ ] Apresentação/slides prontos
+- [ ] Links do Mentimeter criados e testados (código 3743 9147 acessível)
+- [ ] Apresentação/slides prontos e revisados
 - [ ] Confirmação do agendamento com o professor ou comunidade
-- [ ] Confirmação da disponibilidade do intérprete de Libras 
-- [ ] Verificar a disponibilidade de dispositivos eletrônicos para a realização da atividade.
+- [ ] Confirmação da disponibilidade do intérprete de Libras
+- [ ] Verificar a disponibilidade de dispositivos eletrônicos para a realização da atividade
+- [ ] Pendrive com backup dos slides preparado (plano B)
 
 ## Checklist Pós-Oficina (no dia)
 
-- [ ] Fotos registradas 
-- [ ] Feedback dos participantes
+- [ ] Fotos registradas (João Vitor)
+- [ ] Feedback dos participantes coletado (via Mentimeter ou verbalmente)
 - [ ] Material utilizado salvo/documentado
 - [ ] Agradecimento formal ao colégio/comunidade
+- [ ] Diário de bordo atualizado com o registro da execução
